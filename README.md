@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @meforoma
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Roman
+- 👀 I’m interested in JavaScript, React, web3, mobile development
+- 🌱 I’m currently learning Front-end path at [Mate academy](https://t.ly/bFwo)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-meforoma/meforoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 [telegram me](https://t.me/meforoma)
