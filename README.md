@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in JavaScript, React, web3, mobile development
-- 🌱 I’m currently learning Front-end path at [Mate academy](https://t.ly/bFwo)
 - 💞️ I’m looking to collaborate on ...
 - 📫 [telegram me](https://t.me/meforoma)
